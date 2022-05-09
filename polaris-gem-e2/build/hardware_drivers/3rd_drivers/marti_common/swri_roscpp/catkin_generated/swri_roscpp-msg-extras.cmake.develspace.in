@@ -1,0 +1,2 @@
+set(swri_roscpp_MESSAGE_FILES "/home/gem/team-waymoo/src/hardware_drivers/3rd_drivers/marti_common/swri_roscpp/msg/TestTopicServiceRequest.msg;/home/gem/team-waymoo/src/hardware_drivers/3rd_drivers/marti_common/swri_roscpp/msg/TestTopicServiceResponse.msg")
+set(swri_roscpp_SERVICE_FILES "")

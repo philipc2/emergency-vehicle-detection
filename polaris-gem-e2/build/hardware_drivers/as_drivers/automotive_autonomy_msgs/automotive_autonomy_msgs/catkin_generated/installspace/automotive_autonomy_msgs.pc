@@ -1,0 +1,8 @@
+prefix=/home/gem/team-waymoo/install
+
+Name: automotive_autonomy_msgs
+Description: Description of automotive_autonomy_msgs
+Version: 3.0.3
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

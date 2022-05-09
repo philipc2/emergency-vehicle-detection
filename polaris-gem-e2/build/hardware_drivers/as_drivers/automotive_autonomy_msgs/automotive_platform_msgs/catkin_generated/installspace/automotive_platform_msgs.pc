@@ -1,0 +1,8 @@
+prefix=/home/gem/team-waymoo/install
+
+Name: automotive_platform_msgs
+Description: Description of automotive_platform_msgs
+Version: 3.0.3
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

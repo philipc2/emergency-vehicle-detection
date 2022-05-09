@@ -1,0 +1,8 @@
+prefix=/home/gem/team-waymoo/install
+
+Name: pacmod_game_control
+Description: Description of pacmod_game_control
+Version: 2.2.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: std_msgs sensor_msgs pacmod_msgs joy
